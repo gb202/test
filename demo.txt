@@ -20,3 +20,13 @@ Staged files are files that are ready to be committed to the repository you are 
 For now, we are done working with index.html. So we can add it to the Staging Environment:
 
 git add demo.txt
+git status
+git add --all
+git commit -m 
+
+Note: Short status flags are:
+
+?? - Untracked files
+A - Files added to stage
+M - Modified files
+D - Deleted files
