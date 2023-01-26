@@ -30,3 +30,17 @@ Note: Short status flags are:
 A - Files added to stage
 M - Modified files
 D - Deleted files
+
+git log
+
+
+
+
+
+
+
+
+
+
+
+
